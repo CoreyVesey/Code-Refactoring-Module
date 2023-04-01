@@ -10,6 +10,7 @@ The challenge that Horiseon set out for us was to refactor their existing code t
 The following image shows the web application's current appearence and functionality after refactoring:
 
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](../../Assets/Horiseon%20Home%20Page%20Image.png)
+![Horiseon Home Page Image](https://user-images.githubusercontent.com/128763726/229269922-56df46b6-cb31-4424-a16b-8ae46e7594e2.png)
+
 
 
